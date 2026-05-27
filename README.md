@@ -103,7 +103,7 @@ Although all roles are titled "Data Scientist", the range of required technical 
 *Here is your black-background bar graph showing the top skills in remote data science jobs by average salary.*
 
 **🧠 Insights:**
-* **SQL and Python** top the list in both frequency and salary range.
+* `**SQL and Python**` top the list in both frequency and salary range.
 * Big data tools like **Spark, Hadoop, and Cassandra** are clustered just below, emphasizing demand in distributed systems.
 * **Tableau** shows value in roles requiring data visualization and storytelling.
 
