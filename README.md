@@ -100,7 +100,7 @@ This suggests a blend of data querying, scripting, big data, and visualization t
 Although all roles are titled "Data Scientist", the range of required technical skills points to multi-disciplinary capabilities, with certain employers demanding big data architecture (Spark, Hadoop) alongside business intelligence tools (Tableau).
 
 ![Skills for top Paying Data Science Roles](/Project_Sql/assest/skillswithpay.png)
-*Here is your black-background bar graph showing the top skills in remote data science jobs by average salary.*
+*Here is the black-background bar graph showing the top skills in remote data science jobs by average salary.*
 
 **🧠 Insights:**
 * `**SQL and Python**` top the list in both frequency and salary range.
