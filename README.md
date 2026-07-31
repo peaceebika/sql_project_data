@@ -1,4 +1,3 @@
-README.md
 # **Introduction** 
 📊 Lets explore into the data job market! Focusing on data science roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and where high demand meets high salary in the world of data science.
 
