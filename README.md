@@ -88,7 +88,7 @@ The top 3 companies (Selby Jennings and Algo Capital Group) offer salaries rangi
 * **🏢 Diverse Employers:**
 Top-paying remote roles are concentrated in Selby Jennings and Algo Capital Group, reflecting high investment in data talent within finance and capital markets.
 
-* **🧠 In-Demand Skills Across Roles:**
+* **📈 In-Demand Skills Across Roles:**
 The most frequently required skills among the highest-paid roles include:
   * **SQL** (appears across all job IDs)
   * **Python** (strong presence in multiple roles)
@@ -137,7 +137,7 @@ Popular in statistics-heavy environments and research.
 AWS (2,593), Azure (1,919), GCP (808) – Cloud proficiency is increasingly essential.
 * **📊 Visualization Tools:**
 Tableau (2,458), Power BI (1,125), Excel (1,264)
-* **🧠 Machine Learning Libraries:**
+* **📈 Machine Learning Libraries:**
 TensorFlow (1,836), PyTorch (1,607), Scikit-learn (1,252), Keras (679)
 * **⚙️ Data Engineering & Big Data:**
 Spark (2,008), Hadoop (1,214), Databricks (951), Snowflake (759)
